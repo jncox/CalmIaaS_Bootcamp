@@ -198,7 +198,7 @@ Modify pkg\_install\_task.sh
 
     .. figure:: images/more1.png
 
-#. Run ```curl -Sks https://raw.githubusercontent.com/nutanixworkshops/prep/master/nginx > pkg_install_task.sh``` to replace the existing install script
+#. Run ```curl -Sks https://raw.githubusercontent.com/nutanixworkshops/CalmIaaS_Bootcamp/master/calm_dsl/nginx > pkg_install_task.sh``` to replace the existing install script
 
 #. Run ```cat pkg_install_task.sh``` to view the changed script.  What does the script do now?
 
